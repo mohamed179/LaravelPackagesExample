@@ -1,0 +1,12 @@
+{
+    "name": "mohamed/postsapi",
+    "description": "Posts API",
+    "authors": [
+        {
+            "name": "Mohamed Kamal",
+            "email": "mohamed77zaki@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
